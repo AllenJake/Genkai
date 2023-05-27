@@ -1,0 +1,2 @@
+# Genkai
+Bot discord
